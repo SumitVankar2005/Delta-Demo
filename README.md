@@ -1,3 +1,3 @@
 # Delta-Demo
-this a demo respository for learning purpose 
-hello guys .. my name is Sumit Vankar..
+This a demo respository for learning purpose.
+Hello guys!!My name is Sumit Vankar..
